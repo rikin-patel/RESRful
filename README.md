@@ -1,4 +1,4 @@
-# RESRful
+# RESTful
 
 First RESTful Web Service Sample Application with JAX-RS
 
